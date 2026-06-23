@@ -5,7 +5,7 @@
     </header>
 </template>
 
-<script>
+<script >
 export default {
   props: ['wishlistCount']
 }

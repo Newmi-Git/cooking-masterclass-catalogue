@@ -22,3 +22,6 @@ npm run dev
 
 5. Open your browser and go to:
 http://localhost:5173
+
+
+![alt text](image.png)
